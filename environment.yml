@@ -1,0 +1,12 @@
+
+name: telco-churn-analysis
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - notebook

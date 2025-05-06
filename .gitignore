@@ -1,0 +1,7 @@
+```
+__pycache__/
+*.pyc
+data/processed/
+.vscode/
+dashboard/*.pbix.user
+```
